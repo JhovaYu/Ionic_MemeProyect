@@ -1,0 +1,34 @@
+.titulo {  
+    text-align: center; /* Asegura que el texto esté centrado */  
+    color: #7c1250; /* Azul de Ionic */  
+    font-size: 4em;
+    margin-bottom: 10px; /* Margen inferior */  
+  }
+
+  p {  
+    text-align: center;
+    font-size: 1.6em; /* Tamaño de fuente */  
+    color: #ece7e7; /* Color del texto */  
+  }  
+
+  .inputs {
+    width: 50%; /* Cambia el ancho al 80% */  
+    margin: 0 auto; /* Centrar el elemento */ 
+  }
+
+  .xd {
+    text-align: center;
+  }
+
+  .calcular{
+    
+    width: 30%;
+    margin: 30px;
+  }
+
+  .mi-imagen{
+    width: 100%; // Ajusta el ancho según tus necesidades  
+  max-width: 300px; // Tamaño máximo deseado  
+  height: auto; // Mantiene la relación de aspecto  
+  margin-top: 20px; // Espaciado superior para una mejor presentación 
+  }
